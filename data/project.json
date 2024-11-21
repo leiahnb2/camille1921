@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "leiahnb2",
+    "is_private": false,
+    "title": "Camille 1921",
+    "description": "Annotations for the entire silent film Camille (1921), produced by Alla Nazimova and starring Nazimova and Rudolph Valentino. These annotations include a transcription of the dialogue, comments on filmmaking choices, editing techniques, special effects, physical damage to the film copy, and notes about a few scenes with queer subtext.",
+    "language": "en",
+    "slug": "camille1921",
+    "creator": "leiahnb2",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2024-11-21T19:13:04.416Z",
+    "updated_at": "2024-11-21T19:13:04.416Z"
   }
 }
