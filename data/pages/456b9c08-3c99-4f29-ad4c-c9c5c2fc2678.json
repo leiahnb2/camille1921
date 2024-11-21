@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-11-21T19:18:10.158Z",
+  "created_by": "leiahnb2",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1",
+  "updated_at": "2024-11-21T19:18:10.158Z",
+  "updated_by": "leiahnb2",
+  "parent": "923ab925-1f83-48bb-8993-5da637ecd5c5",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "e31d9d95-4b69-4fc3-84aa-bc04cd1c564b"
+  }
+}
